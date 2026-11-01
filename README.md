@@ -73,7 +73,7 @@ Abaixo estão as adições e modificações realizadas em relação ao repositó
 
 1. **Clone o repositório e acesse a pasta:**
 ```bash
-git clone [https://github.com/SEU-USUARIO/dio-agent-safe.git](https://github.com/SEU-USUARIO/dio-agent-safe.git)
+git clone [https://github.com/stephenroque/dio-agent-safe.git](https://github.com/stephenroque/dio-agent-safe.git)
 cd dio-agent-safe
 
 ```
