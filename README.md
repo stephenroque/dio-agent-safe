@@ -24,7 +24,7 @@ Abaixo estão as adições e modificações realizadas em relação ao repositó
 * **`skills/vulnerability-analysis/README.md`**: Documentação voltada para humanos explicando o funcionamento, gatilhos e objetivos da skill de análise de vulnerabilidades.
 * **`agent/knowledge/security-basics.md`**: Base de conhecimento contendo conceitos fundamentais de segurança da informação (Vulnerabilidade, Ameaça, Risco, Tríade CIA — Confidencialidade, Integridade e Disponibilidade — e boas práticas de *hardening* e codificação segura).
 * **`agent/app.py`**: Aplicação em Python/SQLite criada inicialmente com vulnerabilidade de *SQL Injection* (CWE-89) e senhas em texto claro (CWE-256) para teste, posteriormente refatorada pelo agente com *Prepared Statements* e *PBKDF2 + Salt*.
-* **`AI.md`**: Registro completo do log de interações, raciocínio e saídas geradas pelo **Antigravity CLI (`agy`)** durante os testes de AppSec e mentoria de infraestrutura.
+* **`AI.txt`**: Registro completo do log de interações, raciocínio e saídas geradas pelo **Antigravity CLI (`agy`)** durante os testes de AppSec e mentoria de infraestrutura.
 
 ### Alterados
 * **`agent/persona.md`**: Inclusão do comportamento de mentor de cibersegurança defensiva, priorizando perguntas de contexto, ética em testes (apenas ambientes autorizados/laboratório) e explicação clara de riscos.
@@ -37,7 +37,7 @@ Abaixo estão as adições e modificações realizadas em relação ao repositó
 ```text
 .
 ├── AGENTS.md
-├── AI.md
+├── AI.txt
 ├── CLAUDE.md
 ├── README.md
 ├── agent
@@ -98,7 +98,7 @@ agy
 
 ## 🛠️ Melhorias Implementadas e Resultados Obtidos
 
-Além de seguir o fluxo proposto no desafio, foram implementadas as seguintes melhorias práticas (cujos logs completos podem ser consultados no arquivo **[`AI.md`](https://www.google.com/search?q=./AI.md)**):
+Além de seguir o fluxo proposto no desafio, foram implementadas as seguintes melhorias práticas (cujos logs completos podem ser consultados no arquivo **[`AI.txt`](https://www.google.com/search?q=./AI.txt)**):
 
 ### 1. Auditoria de AppSec com Mapeamento MITRE ATT&CK, CWE e OWASP (`agent/app.py`)
 
