@@ -98,7 +98,7 @@ agy
 
 ## 🛠️ Melhorias Implementadas e Resultados Obtidos
 
-Além de seguir o fluxo proposto no desafio, foram implementadas as seguintes melhorias práticas (cujos logs completos podem ser consultados no arquivo **[`AI.txt`](https://www.google.com/search?q=./AI.txt)**):
+Além de seguir o fluxo proposto no desafio, foram implementadas as seguintes melhorias práticas (cujos logs completos podem ser consultados no arquivo **[`AI.txt`](./AI.txt)**):
 
 ### 1. Auditoria de AppSec com Mapeamento MITRE ATT&CK, CWE e OWASP (`agent/app.py`)
 
@@ -123,4 +123,4 @@ Ao receber o relato *"Tenho um servidor Ubuntu exposto na internet. Não sei por
 
 ## 📸 Evidências e Logs de Execução
 
-* 📄 **Log completo do terminal:** Confira o arquivo **[`AI.txt`](https://www.google.com/search?q=./AI.txt)** na raiz deste repositório com toda a transcrição da sessão no Antigravity CLI (`agy`).
+* 📄 **Log completo do terminal:** Confira o arquivo **[`AI.txt`](./AI.txt)** na raiz deste repositório com toda a transcrição da sessão no Antigravity CLI (`agy`).
