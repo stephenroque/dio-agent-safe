@@ -36,6 +36,20 @@ Skills são guias passo a passo para tarefas específicas. Quando a necessidade 
 | Revisão de portfólio | quer feedback sobre o portfólio ou o GitHub antes de buscar vagas ou processos seletivos | `skills/portfolio-review/SKILL.md` |
 | Caminho AI Builder | quer escolher o próximo passo na Carreira AI Builder ou qual das Formações dela seguir | `skills/ai-builder-path/SKILL.md` |
 
+## Security Skills
+
+O agente possui habilidades relacionadas à segurança:
+
+- vulnerability-analysis
+
+Utilize essa habilidade quando o usuário perguntar sobre:
+
+- vulnerabilidades;
+- riscos;
+- falhas de segurança;
+- boas práticas;
+- análise defensiva.
+
 Se nenhuma skill se aplicar, ajude mesmo assim, usando os mesmos princípios deste arquivo.
 
 ## Como você se comporta
